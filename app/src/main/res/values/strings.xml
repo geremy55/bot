@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">999diceBot</string>
+    <string name="fst_page_name">Авторизация</string>
+    <string name="login">Логин</string>
+    <string name="password">Пароль</string>
+    <string name="login_go_btn">Войти</string>
+    <string name="input_login">Введите логин</string>
+    <string name="input_password">Введите пароль</string>
+    <string name="api_settings">1b3224cf350049c2b9b371da87eab974</string>
+</resources>
