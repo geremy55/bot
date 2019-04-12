@@ -25,8 +25,4 @@ public class LoginService extends AsyncTask<Void, Void, BeginSessionResponse> {
         Toast.makeText(null, responce.getSession().getBalance().toString(), Toast.LENGTH_SHORT)
                 .show();
     }
-
-    public void Login() {
-
-    }
 }
